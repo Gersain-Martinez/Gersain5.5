@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gersain5.5</string>
+    <string name="pantallacel">Estas en un Celular</string>
+    <string name="CINCOCURO">ESTAS EN UN DISPOSITIVO DE 5 PULGADAS</string>
+    <string name="cincocinco">Dispositivo de 5.5 pulgadas</string>
+    <string name="cinconueve">Dispositivo de 5.9 pulgadas</string>
+</resources>
